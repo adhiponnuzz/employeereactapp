@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from './Navbar'
-
 const Empregister = () => {
   return (
     <div>
@@ -42,7 +41,7 @@ const Empregister = () => {
                 <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                     <button className="btn btn-success">Clear</button>
                 </div>
-                <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 ">
                     <button className="btn btn-success">Register</button>
                 </div>
             </div>
